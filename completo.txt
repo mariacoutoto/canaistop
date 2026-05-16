@@ -1,0 +1,132 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="That's 70s Ao Vivo
+https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id=""That's 80s Ao Vivo
+#EXTINF:-1 tvg-id=""Top Tv Ao Vivo
+https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id=""Retro Plus TV Ao Vivo
+https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w165173139.m3u8
+#EXTINF:-1 tvg-id=""Web Tv Clássicos do Cinema Ao Vivo
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id=""Filmes Online Ao Vivo
+https://stream.ads.ottera.tv/cl/260501d7qclk9uf481ralc32eg/1920x1080_6046040_3_f.m3u8?i=728_6178
+#EXTINF:-1 tvg-id=""Web Tv Cine Ao Vivo
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-id=""Sony One Cinema Ao Vivo
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id=""GLN TV Ao Vivo
+https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8?hls_ctx=257368e6
+#EXTINF:-1 tvg-id=""Runtime Ação Ao Vivo
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
+#EXTINF:-1 tvg-id=""Classique TV Ao Vivo
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-id=""Tv Carioca Internacional Ao Vivo
+https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/chunklist_w1805207342.m3u8
+#EXTINF:-1 tvg-id=""Sony One Emoções Ao Vivo
+https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id=""Canal 2 - Tv Nova Juarez Ao Vivo
+https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/chunklist_w1869651705.m3u8
+#EXTINF:-1 tvg-id="CHANNEL 1 Ao Vivo
+https://stmv2.painelvideocast.com.br/movies1/movies1/chunklist_w280488075.m3u8
+#EXTINF:-1 tvg-id="Rakuten TV Português Ao Vivo
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6741/0e706a72-0286-47cd-8da2-2e60d02f1e16/4.m3u8
+#EXTINF:-1 tvg-id="MyTime Movie Network - Brasil Ao Vivo
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id="Rakuten tv Sci-fi Ao Vivo
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/03eb4f87-9e93-4932-a28f-b737ae19cc0e/4.m3u8
+#EXTINF:-1 tvg-id="Soul tv
+https://cdn-tiva-video04-logicahost-com-br.smartbit.co/isonata/isonata/chunklist_w671284461.m3u8
+#EXTINF:-111
+https://cdn-tiva-video10-logicahost-com-br.smartbit.co/redeistv/redeistv/chunklist_w1713098478.m3u8
+#EXTINF:-112
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-113
+https://s1.tvr.ovh/acessobrasiltv/acessobrasiltv/chunklist_w31440231.m3u8
+#EXTINF:-114
+https://top-movies-rakuten-tv-pt.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6741/13d04735-f5a3-4e20-9d05-296cccdb1fd6/4.m3u8
+#EXTINF:-115
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-2
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/chunklist_w1018565014.m3u8
+#EXTINF:-3
+https://stream.ads.ottera.tv/cl/260414d7evt6b0jk61570asvhg/1920x1080_6046040_3_f.m3u8?i=728_6178
+#EXTINF:-4
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-5
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8
+#EXTINF:-5
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w376150303.m3u8
+#EXTINF:-6
+https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8?hls_ctx=01637110
+#EXTINF:-7
+https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w959903672.m3u8
+#EXTINF:-8
+https://stream.ads.ottera.tv/cl/260414d7f018ebk1qplhringpg/1920x1080_6046040_3_f.m3u8?i=728_6178
+#EXTINF:-9
+https://ime-cw.otteravision.com/ime/cw/cw_720p.m3u8
+#EXTINF:-10
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-11
+https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/chunklist_w197551403.m3u8
+#EXTINF:-12
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+#EXTINF:-13
+https://stmv1.transmissaodigital.com/redeqdm/redeqdm/chunklist_w430102488.m3u8
+#EXTINF:-14
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-15
+https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
+#EXTINF:-16
+https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-17
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+#EXTINF:-18
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8?hls_ctx=y3620g5t
+#EXTINF:-19
+https://cdn1.cast-tv.com/23595/Live_Kotel3_ABR/23595/Live_Kotel3_11SP/chunks.m3u8?nimblesessionid=21285395
+#EXTINF:-20
+https://cdn-tiva-stmv8-samcast-com-br.smartbit.co/glnfilmes/glnfilmes/playlist.m3u8?hls_ctx=27g75lvt
+#EXTINF:-1 tvg-logo=MyTime Movie Network - Brasil 
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-logo=Minigolf Gran Canaria
+https://youtu.be/Ea48y09PuNc
+#EXTINF:-1 tvg-logo=Web Tv Cine Ao Vivo
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-logo=AWTV Ao Vivo
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo=Sony One Cinema Ao Vivo
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo=Darkflix
+https://cdn-tiva-video01-soultv-com-br.smartbit.co/darkflix/darkflix/chunklist_w2070218020.m3u8
+#EXTINF:-1 tvg-logo=Web Tv Clássicos do Cinema Ao Vivo
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
